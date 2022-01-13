@@ -5,7 +5,7 @@
     * [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
 * [Dr. Carlos Yebra López](https://nyu.academia.edu/CarlosYebraLopez), the executive director of [Ladino 21](https://www.ladino21.org/).
 * [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
-
+* [Devin E. Naar](http://devinenaar.com/) The Isaac Alhadeff Professor in Sephardic Studies, Associate Professor of History & Jewish Studies, Jackson School of International Studies, University of Washington
 * [Rabbi Eliezer Papo](https://bgu.academia.edu/EliezerPapo)
 * [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
 * [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.

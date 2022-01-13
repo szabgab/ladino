@@ -1,4 +1,4 @@
-# Various Ladino-related organization
+# Various Ladino-related organizations
 
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
 
@@ -8,7 +8,6 @@
 
 * [Sephardic Studies at the University of Washington](https://jewishstudies.washington.edu/sephardic-studies/) [Twitter](https://twitter.com/SephardicUW)
     * [The Sephardic Studies Digital Collection](https://content.lib.washington.edu/sephardicweb/index.html)
-    * [Devin E. Naar](http://devinenaar.com/) The Isaac Alhadeff Professor in Sephardic Studies, Associate Professor of History & Jewish Studies, Jackson School of International Studies, University of Washington
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
 * [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI)
     * There are both courses and private classes on Ladino 21
