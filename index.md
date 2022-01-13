@@ -1,5 +1,8 @@
-Ladino is the languages of the descendants of the Jews who were expelled from Spain in 1492.
+Ladino is the language of the descendants of the Jews who were expelled from Spain, or more general from the Iberian peninsula in 1492.
 Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just Espanyol.
+
+
+On this site you'll find resources about the language, the culture, and the people.
 
 * [Learning Ladino](en/learning-ladino.md)
 * [YouTube in Ladino](en/youtube-in-ladino.md)
@@ -10,13 +13,14 @@ Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just E
 * [Videos in Ladino](en/videos-in-ladino.md)
 * [Films in Ladino](en/films-in-ladino.md)
 * [Ladino speaking people](en/people.md)
-* [About](en/about.md)
+* [About](en/about)
+
+For additional information see the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
 
 <hr>
 
-See the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
 
-You can also tahe a look at the [Ladino version of the wikipedia](https://lad.wikipedia.org/) There are not many pages and most of them are rather short,
+You can also take a look at the [Ladino version of the wikipedia](https://lad.wikipedia.org/) There are not many pages and most of them are rather short,
 but it can be interesting to read.
 
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
