@@ -1,2 +1,5 @@
+* [Learning Ladino](learning-ladino.md)
+* [YouTube in Ladino](youtube-in-ladino.md)
 * [Podcasts in Ladino](podcasts-in-ladino.md)
-* [YouTube in Ladino](/en/youtube-in-ladino.md)
+* [Ladino music](ladino-music.md)
+* [Ladino on Facebook](ladino-on-facebook.md)

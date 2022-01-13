@@ -1,6 +1,14 @@
 Ladino is the languages of the descendants of the Jews who were expelled from Spain in 1492.
 Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just Espanyol.
 
+* [Learning Ladino](en/learning-ladino.md)
+* [YouTube in Ladino](en/youtube-in-ladino.md)
+* [Podcasts in Ladino](en/podcasts-in-ladino.md)
+* [Ladino music](en/ladino-music.md)
+* [Ladino on Facebook](en/ladino-on-facebook.md)
+
+<hr>
+
 See the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
 
 You can also tahe a look at the [Ladino version of the wikipedia](https://lad.wikipedia.org/) There are not many pages and most of them are rather short,
@@ -28,21 +36,6 @@ but it can be interesting to read.
 * [KolSefardim](https://www.kolsefardim.net/)
 * [Diario Judio](https://diariojudio.com/) Mostly in modern Spanish, partially in [Ladino](https://diariojudio.com/categoria/idioma/djudeo-espanyol/)
 * [Vidas Largas](https://sites.google.com/view/vidaslargas/) A group of French and Ladino speakers.
-
-## Facebook
-
-There are several Ladino-related Facebook groups and pages:
-
-* [Ladino Forever](https://www.facebook.com/ladinoforever/)
-* [Ladino](https://www.facebook.com/Ladino-%D7%9C%D7%90%D7%93%D7%99%D7%A0%D7%95-515267728561389/)
-* [Jewish Language project](https://www.facebook.com/Jewish-Language-Project-105141091047892/)
-* [Ladinadores](https://www.facebook.com/groups/ladinadores/) - only in Ladino
-* [Ladino Language of Sephardic Jews-The Basics](https://www.facebook.com/groups/919933981429469/)
-* [Ladino Group- Hebrew University](https://www.facebook.com/groups/692672490834218/)
-* [Lovers of Ladino language, music, and culture.](https://www.facebook.com/groups/2213793287/)
-* [Zoom University Ladino Learners](https://www.facebook.com/groups/2416437988456841/)
-* [Search for Ladino related groups](https://www.facebook.com/search/groups/?q=ladino)
-
 
 ## Books and newspaper - Literature in Ladino
 
@@ -127,10 +120,5 @@ Ladino used to be written using various letters. These days most people write us
 * [Rashi script](https://en.wikipedia.org/wiki/Rashi_script)
 * [Solitreo](https://en.wikipedia.org/wiki/Solitreo)
 * Latin letters
-
-* [Learning Ladino](en/learning-ladino.md)
-* [YouTube in Ladino](en/youtube-in-ladino.md)
-* [Podcasts in Ladino](en/podcasts-in-ladino.md)
-* [Ladino music](en/ladino-music.md)
 
 
