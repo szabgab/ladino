@@ -171,17 +171,7 @@ Ladino used to be written using various letters. These days most people write us
 * [Solitreo](https://en.wikipedia.org/wiki/Solitreo)
 * Latin letters
 
-## YouTube Channels
-
-* [Ladino 21](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
-* [Autoridad Nasionala del Ladino i su Kultura](https://www.youtube.com/user/AutoridadLadino)
-* [Sephardic Brotherhood](https://www.youtube.com/c/SephardicBrotherhood)
-* [eSefarad](https://www.youtube.com/c/eSefarad) Noticias del Mundo Sefaradi
-* [Salti Institute](https://www.youtube.com/channel/UCUwnvleXMD5DWhgcpbp0U0w)
-* [Eliezer Papo](https://www.youtube.com/c/EliezerPapoSFRJ)
-
-* You can download videos to your mobile phone using the YouTube application and then you can watch or listen to the off-line.
-
+[YouTube in Ladino](en/youtube-in-ladino.md)
 [Podcasts in Ladino](en/podcasts-in-ladino.md)
 
 ## TODO
