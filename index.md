@@ -70,7 +70,7 @@ but it can be interesting to read.
 * Mr. Alejandro Acero Ayuda
 * Rabbi Eliezer Papo
 * [Myriam Moscona](https://en.wikipedia.org/wiki/Myriam_Moscona)
-    * [Ansina](https://smile.amazon.com/Ansina-Myriam-Moscona/dp/8416193843/)
+    * [Ansina](https://smile.amazon.com/Ansina-Myriam-Moscona/dp/8416193843/) by Myriam Moscona
 
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
@@ -78,13 +78,6 @@ but it can be interesting to read.
 ## Films
 
 * [The club](https://www.netflix.com/title/81257567) on Netflix
-
-### Libre Lingo
-
-* [LibreLingo](https://librelingo.app/)
-* [Ladino for Hebrew speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Hebrew)
-* [Ladino for English speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-English)
-* [Ladino for Spanish speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish)
 
 ## Videos
 

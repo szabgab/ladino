@@ -5,12 +5,20 @@
 
 * [utalk](https://utalk.com/) has a [Ladino course](https://utalk.com/en/plans/ladino) with voice.
 
-
+<!--
 * [Duolingo](https://www.duolingo.com/) has no Ladino course. See [this discussion](https://forum.duolingo.com/comment/7477998/What-about-Ladino-Judaeo-Spanish)
   and the [guide](https://forum.duolingo.com/comment/15014194) also [apply to be a contributor](https://incubator.duolingo.com/apply).
 * [Lingq](https://www.lingq.com/) does not seem to have one.
 * [Memrise](https://www.memrise.com/) does not seem to have one.
 
+### Libre Lingo
+
+* [LibreLingo](https://librelingo.app/) is an open source language learning application. There are attempts (by yours truly) to create Ladino courses on it.
+  None of them is for public consumption
+* [Ladino for English speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-English)
+* [Ladino for Hebrew speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Hebrew)
+* [Ladino for Spanish speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish)
+-->
 
 ## Ladino Courses on YouTube
 
