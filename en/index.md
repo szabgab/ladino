@@ -7,6 +7,7 @@
 * [Videos in Ladino](videos-in-ladino)
 * [Films in Ladino](films-in-ladino)
 * [Ladino speaking people](people)
+* [Books in Ladino](books-in-ladino)
 * [About](about)
 
 
