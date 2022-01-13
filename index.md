@@ -7,6 +7,9 @@ Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just E
 * [Ladino music](en/ladino-music.md)
 * [Ladino on Facebook](en/ladino-on-facebook.md)
 * [Ladino Dictionaries](en/ladino-dictionaries.md)
+* [Videos in Ladino](en/videos-in-ladino.md)
+* [Films in Ladino](en/films-in-ladino.md)
+* [Ladino speaking people](en/people.md)
 * [About](en/about.md)
 
 <hr>
@@ -53,46 +56,8 @@ but it can be interesting to read.
 * [Elia Karmona](https://en.wikipedia.org/wiki/Elia_Carmona)
 * [La Vara](https://en.wikipedia.org/wiki/La_Vara) - (The Stick), the longest running American Ladino newspaper in the [Library of Congress](https://www.loc.gov/item/sn91066432/)
 
-## People
-
-* Bryan Kirschen [Ladino Lingust](https://ladinolinguist.com/)
-    * [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
-* [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
-
-* [Dr. Rey Romero](https://www.uhd.edu/academics/humanities/undergraduate-programs/spanish/Pages/bios-romero.aspx) Associate Professor of Spanish at Univeristy of Houston Downtown.
-* [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
-* [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
-* [Ora Schwarzwald](https://biu.academia.edu/oschwarzwald)
-* Rachel Amado Bortnick, Founder, [Ladinokomunita](https://ladinokomunita.groups.io/)
-    * [utalki interview](https://utalk.com/news/meet-our-speakers-rachel-bortnick-ladino/)
-* [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
-* Dr. Carlos Yebra López
-* Mr. Alejandro Acero Ayuda
-* Rabbi Eliezer Papo
-* [Myriam Moscona](https://en.wikipedia.org/wiki/Myriam_Moscona)
-    * [Ansina](https://smile.amazon.com/Ansina-Myriam-Moscona/dp/8416193843/) by Myriam Moscona
-
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
-
-## Films
-
-* [The club](https://www.netflix.com/title/81257567) on Netflix
-
-## Videos
-
-* I created a [Ladino playlist](https://www.youtube.com/playlist?list=PLpSVfGBL5HR2AaU9KvGXmUa5hn8iYtOLq) using interviews in Ladino.
-
-Some of them are also listed here:
-
-* [The Ladino language, casually spoken -  Sara speaking Ladino - Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)
-* [En Turquía se habla castellano antiguo](https://www.youtube.com/watch?v=9KpXecj1XZw)
-* [1492 - El Otro Camino](https://www.youtube.com/watch?v=wrNhMKFDPuk) (The short history of the Sephardic Jews in Spanish with English subtitles)
-
-* [Language shift and attitudes](https://www.oeaw.ac.at/vlach/collections/judeo-spanish/judeo-spanish-in-istanbul/video-collection/language-shift-and-attitudes/) a series of interviews in Ladino
-    * [I would choose Ladino](https://www.youtube.com/watch?v=qGlhinGj_UE) (in Ladino with Viki Diler)
-* [Stella Levi - Ladino](https://www.youtube.com/watch?v=fS6L5N5oiwE)
-
 
 ## Ladino Text (corpus)
 
