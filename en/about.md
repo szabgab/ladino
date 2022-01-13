@@ -1,3 +1,4 @@
+layout: page
 permalink: /en/about
 
 # About this site
