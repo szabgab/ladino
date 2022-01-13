@@ -12,8 +12,10 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name"><a href="/">{{ page.title | default: site.title | default: site.github.repository_name }}</a></h1>
-      <h2 class="project-tagline"><a href="/">{{ page.description | default: site.description | default: site.github.project_tagline }}</a></h2>
+      <h1 class="project-name"><a href="/">{{ page.title | default: site.title }}</a></h1>
+<!--
+      <h2 class="project-tagline"><a href="/">{{ page.description | default: site.description }}</a></h2>
+-->
     </header>
 
     <main id="content" class="main-content" role="main">
