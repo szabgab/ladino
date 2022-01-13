@@ -1,7 +1,5 @@
-# Ladino - aka. Judeo-Spanish
-
 Ladino is the languages of the descendants of the Jews who were expelled from Spain in 1492.
-Others, espically the speakers call it Djudeo-Espanyol or just Espanyol.
+Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just Espanyol.
 
 See the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
 
@@ -184,16 +182,7 @@ Ladino used to be written using various letters. These days most people write us
 
 * You can download videos to your mobile phone using the YouTube application and then you can watch or listen to the off-line.
 
-## Radio
-
-* [Kaan Ladino](https://www.kan.org.il/radio/program.aspx/?progId=1135) - The weekly radio program of the Israeli radio. Partially in Ladino, partially in Hebrew.
-  You can also listen to earlier episodes. You can use their application as well, but no RSS feed and no way to listen to the episodes off-line.
-
-## Podcast
-
-* [Emision en Sefaradi](https://www.rtve.es/play/audios/emision-en-sefardi/) de RTVE [RSS](http://www.rtve.es/api/programas/33758/audios.rss)
-* [Kamino Sefarado](https://radiorcj.info/emissions/kamino-sefarad/) de las Vidas Largas. [RSS](https://radiorcj.info/emissions/kamino-sefarad/?flux=rss)
-
+[Podcasts in Ladino](podcasts-in-ladino.md)
 
 ## TODO
 
