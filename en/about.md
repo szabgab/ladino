@@ -1,3 +1,7 @@
+---
+permalink: /en/about
+---
+
 # About this site
 
 This site is being maintained by Gábor Szabó.
