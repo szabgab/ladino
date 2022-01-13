@@ -4,15 +4,15 @@ Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just E
 
 On this site you'll find resources about the language, the culture, and the people.
 
-* [Learning Ladino](en/learning-ladino.md)
-* [YouTube in Ladino](en/youtube-in-ladino.md)
-* [Podcasts in Ladino](en/podcasts-in-ladino.md)
-* [Ladino music](en/ladino-music.md)
-* [Ladino on Facebook](en/ladino-on-facebook.md)
-* [Ladino Dictionaries](en/ladino-dictionaries.md)
-* [Videos in Ladino](en/videos-in-ladino.md)
-* [Films in Ladino](en/films-in-ladino.md)
-* [Ladino speaking people](en/people.md)
+* [Learning Ladino](en/learning-ladino)
+* [YouTube in Ladino](en/youtube-in-ladino)
+* [Podcasts in Ladino](en/podcasts-in-ladino)
+* [Ladino music](en/ladino-music)
+* [Ladino on Facebook](en/ladino-on-facebook)
+* [Ladino Dictionaries](en/ladino-dictionaries)
+* [Videos in Ladino](en/videos-in-ladino)
+* [Films in Ladino](en/films-in-ladino)
+* [Ladino speaking people](en/people)
 * [About](en/about)
 
 For additional information see the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
