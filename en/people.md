@@ -9,6 +9,7 @@
 * [Rabbi Eliezer Papo](https://bgu.academia.edu/EliezerPapo)
 * [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
 * [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
+* [Karen Sarhon](https://jwa.org/encyclopedia/article/sarhon-karen)
 * [Myriam Moscona](https://en.wikipedia.org/wiki/Myriam_Moscona)
     * [Ansina](https://smile.amazon.com/Ansina-Myriam-Moscona/dp/8416193843/) by Myriam Moscona
 * [Ora Schwarzwald](https://biu.academia.edu/oschwarzwald)
