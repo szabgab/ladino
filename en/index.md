@@ -9,6 +9,8 @@
 * [Ladino speaking people](people)
 * [Text in Ladino](en/text-in-ladino)
 * [Books in Ladino](books-in-ladino)
+* [Ladino scripts](ladino-scripts)
+* [Organizations](organizations)
 * [About](about)
 
 
