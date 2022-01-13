@@ -182,7 +182,7 @@ Ladino used to be written using various letters. These days most people write us
 
 * You can download videos to your mobile phone using the YouTube application and then you can watch or listen to the off-line.
 
-[Podcasts in Ladino](podcasts-in-ladino.md)
+[Podcasts in Ladino](en/podcasts-in-ladino.md)
 
 ## TODO
 
