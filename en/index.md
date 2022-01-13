@@ -3,3 +3,7 @@
 * [Podcasts in Ladino](podcasts-in-ladino.md)
 * [Ladino music](ladino-music.md)
 * [Ladino on Facebook](ladino-on-facebook.md)
+* [Ladino Dictionaries](ladino-dictionaries.md)
+* [About](about.md)
+
+

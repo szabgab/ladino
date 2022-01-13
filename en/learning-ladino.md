@@ -8,6 +8,9 @@
 
 * [Duolingo](https://www.duolingo.com/) has no Ladino course. See [this discussion](https://forum.duolingo.com/comment/7477998/What-about-Ladino-Judaeo-Spanish)
   and the [guide](https://forum.duolingo.com/comment/15014194) also [apply to be a contributor](https://incubator.duolingo.com/apply).
+* [Lingq](https://www.lingq.com/) does not seem to have one.
+* [Memrise](https://www.memrise.com/) does not seem to have one.
+
 
 ## Ladino Courses on YouTube
 

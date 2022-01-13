@@ -6,6 +6,8 @@ Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, or just E
 * [Podcasts in Ladino](en/podcasts-in-ladino.md)
 * [Ladino music](en/ladino-music.md)
 * [Ladino on Facebook](en/ladino-on-facebook.md)
+* [Ladino Dictionaries](en/ladino-dictionaries.md)
+* [About](en/about.md)
 
 <hr>
 
@@ -76,11 +78,6 @@ but it can be interesting to read.
 ## Films
 
 * [The club](https://www.netflix.com/title/81257567) on Netflix
-
-## Ladino dictionary
-
-* [English Ladino dictionary for Android](https://play.google.com/store/apps/details?id=ru.vddevelopment.ref.enladen&hl=en_US&gl=US)
-* [Online English-Ladino dictionary](https://glosbe.com/lad/en)
 
 ### Libre Lingo
 
