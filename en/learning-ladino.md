@@ -29,6 +29,8 @@
 * Vini Echaremos Lashon - [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
   By the Autoridad Nasionala del Ladino i su Kultura
 
+* [Curso online de iniciacion al ladino](https://www.youtube.com/playlist?list=PL3hNITxp-Lg9_pYDpLCfVil9BflVMrUTH) - a 3-part course for Spanish speakers.
+
 ## Books to learn Ladino
 
 * [Beginner's Ladino](https://www.amazon.com/Beginners-Ladino-Spanish-English-Markova-ebook/dp/B003554D7S/) by Alla Markova
