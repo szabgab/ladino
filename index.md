@@ -13,6 +13,7 @@ On this site you'll find resources about the language, the culture, and the peop
 * [Videos in Ladino](en/videos-in-ladino)
 * [Films in Ladino](en/films-in-ladino)
 * [Ladino speaking people](en/people)
+* [Text in Ladino](en/text-in-ladino)
 * [Books in Ladino](en/books-in-ladino)
 * [About](en/about)
 
@@ -20,9 +21,6 @@ For additional information see the wikipedia entry in English about [Ladino or J
 
 <hr>
 
-
-You can also take a look at the [Ladino version of the wikipedia](https://lad.wikipedia.org/) There are not many pages and most of them are rather short,
-but it can be interesting to read.
 
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
 
@@ -49,15 +47,6 @@ but it can be interesting to read.
 
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
-
-## Ladino Text (corpus)
-
-Ladino texts for reading and for extracting sentences to be used for the Ladino course on LibreLingo.
-
-* [Wikipedia in Ladino](https://lad.wikipedia.org/)
-* Songs (See the music section)
-* Books written in Ladino (where can one find books?)
-* The [Ladinokomunita](https://ladinokomunita.groups.io/) email list has some good correspondence in Ladino and the various Facebook groups also contain text.
 
 ## Ladino scripts
 
