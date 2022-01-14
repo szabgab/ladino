@@ -11,6 +11,7 @@
 * [Books in Ladino](books-in-ladino)
 * [Ladino scripts](ladino-scripts)
 * [Organizations](organizations)
+* [Haketía](haketia)
 * [About](about)
 
 

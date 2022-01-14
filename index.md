@@ -17,6 +17,7 @@ On this site you'll find resources about the language, the culture, and the peop
 * [Books in Ladino](en/books-in-ladino)
 * [Ladino scripts](en/ladino-scripts)
 * [Organizations](en/organizations)
+* [Haketía](en/haketia)
 * [About](en/about)
 
 For additional information see the Wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
