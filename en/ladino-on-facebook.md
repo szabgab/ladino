@@ -17,10 +17,16 @@ There are several Ladino-related Facebook groups and pages:
 * [Ladino 21](https://www.facebook.com/groups/825903231391921/)
 * [Klub de elevos de Ladino Djudeo-Espanyol](https://www.facebook.com/groups/KlubDeElevosDeLadino/)
 * [Ladinokomunita](https://www.facebook.com/groups/134020069974997/)
+* [Aki Yerushalayim](https://www.facebook.com/Aki.Yerushalayim)
+* [Refrans in Ladino](https://www.facebook.com/refranmentirozonoay/)
+* [SoySefardi.org](https://www.facebook.com/SoySefardi.org/)
+* [Sephardi World Weekly](https://www.facebook.com/SephardiWorldWeekly/)
+* [El mundo del Ladino Djudeo-Espanyol por Pablo Carrión ARG](https://www.facebook.com/The.World.Of.Ladino.Speakers/)
 
 ## Haketia
 
 * [Haketia Entre Mozotros](https://www.facebook.com/groups/101379943379765/)
+* [Voces de Haketía](https://www.facebook.com/vocesdehaketia/)
 
 ## General
 
