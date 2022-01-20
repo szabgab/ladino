@@ -23,5 +23,5 @@
 * [Vidas Largas](https://sites.google.com/view/vidaslargas/) A group of French and Ladino speakers.
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
-
+* [Aki Estamos - L'association des amis de la lettre Sepharade](https://aki.assoconnect.com/)
 

@@ -22,6 +22,7 @@ There are several Ladino-related Facebook groups and pages:
 * [SoySefardi.org](https://www.facebook.com/SoySefardi.org/)
 * [Sephardi World Weekly](https://www.facebook.com/SephardiWorldWeekly/)
 * [El mundo del Ladino Djudeo-Espanyol por Pablo Carrión ARG](https://www.facebook.com/The.World.Of.Ladino.Speakers/)
+* [Aki Estamos - Les Amis de la Lettre Sépharade](https://www.facebook.com/AkiestamosAALS)
 
 ## Haketia
 
