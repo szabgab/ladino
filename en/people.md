@@ -7,6 +7,7 @@
 * [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
 * [Devin E. Naar](http://devinenaar.com/) The Isaac Alhadeff Professor in Sephardic Studies, Associate Professor of History & Jewish Studies, Jackson School of International Studies, University of Washington
 * [Rabbi Eliezer Papo](https://bgu.academia.edu/EliezerPapo)
+* [Güler Orgun](https://www.centropa.org/biography/guler-orgun) [Güler Orgun talking about herself](https://www.youtube.com/watch?v=6PUw3GMgNgs) - author of Ladino-English and Ladino-Spanish [dictionaries](ladino-dictionaries)
 * [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
 * [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
 * [Karen Sarhon](https://jwa.org/encyclopedia/article/sarhon-karen)
@@ -18,5 +19,7 @@
     * [utalki interview](https://utalk.com/news/meet-our-speakers-rachel-bortnick-ladino/)
 * [Dr. Rey Romero](https://www.uhd.edu/academics/humanities/undergraduate-programs/spanish/Pages/bios-romero.aspx) Associate Professor of Spanish at Univeristy of Houston Downtown.
 * [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
+* Ricardo Portal
+* [Antonio Ruiz Tinoco](https://hispanismo.cervantes.es/hispanistas/222785/ruiz-tinoco-antonio)
 
 This is far from an exhaustive list. These are just the people I bumped into during my search. I hope to add more refernces later.

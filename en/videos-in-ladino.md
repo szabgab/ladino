@@ -33,6 +33,15 @@
 * [The Ladino language, casually spoken -  Sara speaking Ladino - Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)  6:16
 * [Stella Levi](https://www.youtube.com/watch?v=fS6L5N5oiwE) from New York speaking about her life in Ladino. 42:10 (Endangered Language Alliance)
 * [Three short plays in Ladino](https://www.youtube.com/watch?v=7zEYafr6M2c) by Forti Barokas 19:17
+* [Güler Orgun "A Turkish-Jewish-Muslim-Tale"](https://www.youtube.com/watch?v=6PUw3GMgNgs)   Ladino Audio by Karen Sarhon, English Subtitle
+
+## Ladino 21
+
+* [Istambul 1974 - Aldo Sevi](https://www.youtube.com/watch?v=gY1Ai0HGbc8)  2:24
+
+## eSefarad - Enkontros de Alhad
+
+* [Prezervar el Ladino en Ladino](https://www.youtube.com/watch?v=9iENl0mQMIg)
 
 
 ## In Spanish
