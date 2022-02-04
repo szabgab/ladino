@@ -17,3 +17,4 @@
 * Ladino newspaper [El Amaneser](https://istanbulsephardiccenter.com/el-amaneser/)
 * Search for [Ladino](https://www.nli.org.il/en/newspapers/titles?lang=Ladinostartyear=1783endyear=2020) in The National Library of Israel
 * [Turkish Union in Israel](https://www.turkisrael.org.il/blog/categories/ladino-1) - has a series of articles in Ladino.
+* [Salom](https://www.salom.com.tr/haberler-17-judeoespanyol)
