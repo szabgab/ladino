@@ -24,4 +24,4 @@
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
 * [Aki Estamos - L'association des amis de la lettre Sepharade](https://aki.assoconnect.com/)
-
+* [El Instituto Maale Adumim para la documentación de la lengua judeo-española (ladino) y su cultura](http://folkmasa.org/av/av00lad.htm)
