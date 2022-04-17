@@ -22,6 +22,7 @@ for entry in events:
     end_dt = datetime.datetime.fromisoformat(entry['end'])
     event.add('dtstart', start_dt)
     event.add('dtend', end_dt)
+    event.add('location', entry['url'])
     event.add('description', entry['text'])
     uid = re.sub(r'[^a-zA-Z0-9]', '', entry['text'])[0:30]
     event['uid'] = f'{uid}@ladino.szabgab.com'
