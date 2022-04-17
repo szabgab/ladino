@@ -20,7 +20,7 @@
 * [Ladino for Spanish speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish)
 -->
 
-## Ladino Courses on YouTube
+## Free Ladino Courses on YouTube
 
 * [Ladino 101 - A Beginner's Course](https://www.sephardicbrotherhood.com/ladino101) of The Sephardic Jewish Brotherhood of America
     * [Video recordings](https://www.youtube.com/watch?v=MTgs0VlkP_E&list=PLG7gXVhDoTAKrqy1jGn4QcQ4Mwk6YB8Tc&index=2)
@@ -35,10 +35,24 @@
 
 * [Beginner's Ladino](https://www.amazon.com/Beginners-Ladino-Spanish-English-Markova-ebook/dp/B003554D7S/) by Alla Markova
 
-## Other
+## Courses and private lessons
+
+* [Ladino 21](https://en.ladino21.org/) has short courses in Ladino and they also offer private classes.
 
 * [italki](https://www.italki.com/i/EFbbfc?hl=en_us) has [no Ladino teachers](https://www.italki.com/teachers/ladino(judeospanish)).
   However I exchanged email with their support and as they have Ladino listed on their site one can apply to be a teacher or a community tutor.
+
+## Studying Ladino
+
+There are several Universities that offer Ladino courses in some way:
+
+* [University of Washington](https://jewishstudies.washington.edu/learning-ladino/)
+* [Hebrew University in Jerusalem](https://pluto.huji.ac.il/~msladino/courses.htm)
+* [Salti Institute at Bar-Ilan University in Ramat Gan](http://www.ladinobiu.co.il/)
+* [The Moshe David Gaon Center for Ladino Culture  at Ben-Gurion University in the Negev](https://in.bgu.ac.il/humsos/heblit/Pages/About-En.aspx)
+
+
+## Other
 
 * [Ladino dictionaries](ladino-dictionaries)
 
@@ -46,17 +60,6 @@
 * [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/) by [Sarah Aroeste](https://saraharoeste.com/)
 
 
-* [Ladino 21](https://en.ladino21.org/) has short courses in Ladino and they also offer private classes.
-
-
-## Studying Ladino
-
-There are several Universities that offer Ladino in some way:
-
-* [University of Washington](https://jewishstudies.washington.edu/learning-ladino/)
-* [Hebrew University in Jerusalem](https://pluto.huji.ac.il/~msladino/courses.htm)
-* [Salti Institute at Bar-Ilan University in Ramat Gan](http://www.ladinobiu.co.il/)
-* [The Moshe David Gaon Center for Ladino Culture  at Ben-Gurion University in the Negev](https://in.bgu.ac.il/humsos/heblit/Pages/About-En.aspx)
 
 
 
