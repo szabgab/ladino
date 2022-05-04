@@ -22,10 +22,14 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-credits"><a href="/">home</a> | <a href="/en/about">about</a></span>
-        {{ page.url }}
-        {% if page.url contains "/lad/" %}
-         <a href="/lad/">Kaza</a>
+        {% if page.url == "/" %}
+        {% else %}
+          {% if page.url contains "/lad/" %}
+             <span class="site-footer-credits"><a href="/">Kaza</a> | <a href="/lad/">Ladino</a></span>
+          {% endif %}
+          {% if page.url contains "/en/" %}
+             <span class="site-footer-credits"><a href="/">Home</a> | <a href="/en/">Home</a>  | <a href="/en/about">about</a></span>
+          {% endif %}
         {% endif %}
       </footer>
     </main>
