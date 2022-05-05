@@ -1,0 +1,2 @@
+Sitemap: https://ladino.szabgab.com/sitemap
+User-agent: *
