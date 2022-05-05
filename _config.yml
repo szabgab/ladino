@@ -4,3 +4,5 @@ description: "Ladino, the language of the Sepharadic Jews"
 show_downloads: false
 github:
    is_project_page: false
+plugins:
+  - jekyll-sitemap
