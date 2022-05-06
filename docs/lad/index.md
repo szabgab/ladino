@@ -3,4 +3,5 @@ lang: lad
 ---
 # Mi blog en Ladino
 
-* [Deke kero ambezarme Ladino?](deke-kero-ambezarme-ladino/)
+* [Un blog en Ladino](un-blog-en-ladino)
+* [Deke kero ambezarme Ladino?](deke-kero-ambezarme-ladino)
