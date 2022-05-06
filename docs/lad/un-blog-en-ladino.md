@@ -20,5 +20,5 @@ Yo no sujero trokar este, ama pensi ke yo puedo partajar algunos de los mesajes 
 
 No deke mis mesajes son tan importantes, ama para aprovar alkansar a otras personas ke ya no son partes de la komunita.
 
-Por eso empesi publikar algunos de mis mesajes (kon las korreksiones de los moderadors) en [un blog aki](https://ladino.szabgab.com/lad/).
+Por eso empesi publikar algunos de mis mesajes (kon las korreksiones de los moderadores) en [un blog aki](https://ladino.szabgab.com/lad/).
 
