@@ -12,7 +12,7 @@ Esto da una oportunidad a una persona komo yo, ke ya puede eskrivir un poko en L
 La komunita es un lugar muy amistozo para elevos de la lingua.
 
 La Ladinokomunita tambien tiene un [trezoro de tekstos](https://ladinokomunita.groups.io/g/main/messages) de los ultimos 20 anyos ke eksiste.
-Una persona ke kere embezarse ladino puede meldar munchas kozas muy interesantes en el arkivo.
+Una persona ke kere ambezarse ladino puede meldar munchas kozas muy interesantes en el arkivo.
 
 El uniko problema ke veo es ke solo miembros pueden meldar los mesajes i el arkivo.
 
