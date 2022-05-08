@@ -4,14 +4,15 @@ lang: lad
 # Ambezarse ladino kon una aplikasion: utalk
 Data: 2022.05.08
 
-Ay varias aplikasiones en los telefonos selulares para ambezarse linguas.
+Ay varias aplikasiones en los telefones selulares para ambezarse linguas.
 Uno de esos es [utalk](https://utalk.com/en/store/ladino) ande es posivle ambezarse ladino tambien.
 
 En la aplikasion ay varios grupos de palavras en varias temas. Por egzempio:
 
 * adjektivos
+* animales
 * banyo
-* deskansarlugares
+* deskansar
 * direksiones
 * doktor
 * emerjensias
@@ -19,33 +20,35 @@ En la aplikasion ay varios grupos de palavras en varias temas. Por egzempio:
 * famiya
 * frutas
 * gizar
-* hazinosprofesiones
+* hazinos
 * kalendario
 * kaza
 * kolores
 * komida i bevida
-* kondusir
+* konduzir
 * kozina
+* lugares
 * merkar
-* negosiosanimales
+* negosios
 * numeros asta diez milyones
 * numeros asta vente
 * paises
 * prepositionales
+* profesiones
 * puerpo
 * restorante
 * ropa
 * sportes
-* teknologia
+* teknolojia
 * tiempo
 * transportasion
-* vakasiones
+* vakansas
 * viajes
 * zerzevat
 
 ... i otras.
 
-En kada tema ay 20-40 palavras i frazas kon las palavras. Ay algunos djugos para ambezarse. Por egzempio tu puedes oir boses de ladino-avlantes komo dizir las frazas.
+En kada tema ay 20-40 palavras i frazas kon las palavras. Ay algunos djugos para ambezarse. Por egzempio tu puedes oir bozes de ladino-avlantes komo dizir las frazas.
 
 Puedes rekordar tu mismo i puedes oir  las similaridades i las diferensias entre tu boz i la boz de los ladino-avlantes.
 
@@ -57,7 +60,7 @@ Dr. Carlos Yebra López i Mr. Alejandro Acero Ayuda de [Ladino 21](https://www.l
 
 Las bozes son de Rachel Amado Bortnick, la fondadora de [Ladinokomunita](https://ladinokomunita.groups.io/), i Benni Aguado.
 
-Uzar la aplikasion kosta paras ama tambien es posivle empesar  A uzarlo sin pagar.
+Uzar la aplikasion kosta paras ama tambien es posivle empesar a uzarlo sin pagar.
 
 Topi entrevistas (en inglez) kon las dos personas ke azen las bozes:
 
