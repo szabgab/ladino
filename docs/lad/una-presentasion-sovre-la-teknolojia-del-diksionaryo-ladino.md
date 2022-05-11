@@ -3,7 +3,7 @@ lang: lad
 ---
 # Una presentasion sovre la teknolojia del diksionaryo ladino
 
-Komo podesh saver antes algunos mezes empesi a krear un diksionaryo ladino en linia.
+Komo podesh saver antes algunos mezes empesi a krear un [diksionaryo ladino en linia](https://diksionaryo.szabgab.com/).
 
 Emepsi kon el arkivo de Excel ke fue el diksionaryo de Guler Orgun. Lo konverti a otra forma ke yama YAML.
 
