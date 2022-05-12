@@ -8,7 +8,7 @@ There are several Ladino-related Facebook groups and pages:
 * [El Ladino komo lingua biva! - Ladino as a living language!](https://www.facebook.com/groups/1724466381129735/) (Omer Beer, 515)
 * [Elias Ladino Ensemble -- the tradition continues!!](https://www.facebook.com/groups/248101815243555/) (Daniel Elias, 168)
 * [Klub de elevos de Ladino Djudeo-Espanyol](https://www.facebook.com/groups/KlubDeElevosDeLadino/) (Curso de Ladino online, ? 1,100)
-* [Ladinadores](https://www.facebook.com/groups/ladinadores/) - only in Ladino (Aldo Sevi, 4,642)
+* **[Ladinadores](https://www.facebook.com/groups/ladinadores/) - only in Ladino (Aldo Sevi, 4,642)**
 * [Ladino 21](https://www.facebook.com/groups/825903231391921/) (Carlos Yebra López, 391)
 * [Ladino Language of Sephardic Jews-The Basics](https://www.facebook.com/groups/919933981429469/) (Keith A. Chavez, 2,115)
 * [Ladino Group- Hebrew University](https://www.facebook.com/groups/692672490834218/) (David M. Bunis, Ann Esperanza, 72)
