@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://ladino.szabgab.com/en/about</loc></url>
-<url><loc>https://ladino.szabgab.com/lad/ambezarse-ladino-kon-una-aplikasion-utalk</loc></url>
-<url><loc>https://ladino.szabgab.com/lad/deke-kero-ambezarme-ladino</loc></url>
-<url><loc>https://ladino.szabgab.com/lad/</loc></url>
-<url><loc>https://ladino.szabgab.com/lad/un-blog-en-ladino</loc></url>
-<url><loc>https://ladino.szabgab.com/lad/una-presentasion-sovre-la-teknolojia-del-diksionaryo-ladino</loc></url>
 <url><loc>https://ladino.szabgab.com/en/books-in-ladino</loc></url>
 <url><loc>https://ladino.szabgab.com/en/films-in-ladino</loc></url>
 <url><loc>https://ladino.szabgab.com/en/haketia</loc></url>
-<url><loc>https://ladino.szabgab.com/en/</loc></url>
 <url><loc>https://ladino.szabgab.com/en/ladino-dictionaries</loc></url>
 <url><loc>https://ladino.szabgab.com/en/ladino-music</loc></url>
 <url><loc>https://ladino.szabgab.com/en/ladino-on-facebook</loc></url>
 <url><loc>https://ladino.szabgab.com/en/ladino-scripts</loc></url>
 <url><loc>https://ladino.szabgab.com/en/learning-ladino</loc></url>
+<url><loc>https://ladino.szabgab.com/en/</loc></url>
 <url><loc>https://ladino.szabgab.com/en/organizations</loc></url>
 <url><loc>https://ladino.szabgab.com/en/other</loc></url>
 <url><loc>https://ladino.szabgab.com/en/people</loc></url>
@@ -22,6 +17,11 @@
 <url><loc>https://ladino.szabgab.com/en/text-in-ladino</loc></url>
 <url><loc>https://ladino.szabgab.com/en/videos-in-ladino</loc></url>
 <url><loc>https://ladino.szabgab.com/en/youtube-in-ladino</loc></url>
+<url><loc>https://ladino.szabgab.com/lad/ambezarse-ladino-kon-una-aplikasion-utalk</loc></url>
+<url><loc>https://ladino.szabgab.com/lad/deke-kero-ambezarme-ladino</loc></url>
+<url><loc>https://ladino.szabgab.com/lad/</loc></url>
+<url><loc>https://ladino.szabgab.com/lad/una-presentasion-sovre-la-teknolojia-del-diksionaryo-ladino</loc></url>
+<url><loc>https://ladino.szabgab.com/lad/un-blog-en-ladino</loc></url>
 <url><loc>https://ladino.szabgab.com/</loc></url>
 <url><loc>https://ladino.szabgab.com/wordle/</loc><lastmod>2022-05-12T07:30:41+00:00</lastmod></url>
 </urlset>
