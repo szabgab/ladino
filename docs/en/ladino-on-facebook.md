@@ -8,13 +8,18 @@ There are several Ladino-related Facebook groups and pages:
 * [El Ladino komo lingua biva! - Ladino as a living language!](https://www.facebook.com/groups/1724466381129735/) (Omer Beer, 515)
 * [Elias Ladino Ensemble -- the tradition continues!!](https://www.facebook.com/groups/248101815243555/) (Daniel Elias, 168)
 * [Klub de elevos de Ladino Djudeo-Espanyol](https://www.facebook.com/groups/KlubDeElevosDeLadino/) (Curso de Ladino online, ? 1,100)
-* **[Ladinadores](https://www.facebook.com/groups/ladinadores/) - only in Ladino (Aldo Sevi, 4,642)**
+* [Ladinadores](https://www.facebook.com/groups/ladinadores/) - only in Ladino (Aldo Sevi, 4,642)
 * [Ladino 21](https://www.facebook.com/groups/825903231391921/) (Carlos Yebra López, 391)
 * [Ladino Language of Sephardic Jews-The Basics](https://www.facebook.com/groups/919933981429469/) (Keith A. Chavez, 2,115)
 * [Ladino Group- Hebrew University](https://www.facebook.com/groups/692672490834218/) (David M. Bunis, Ann Esperanza, 72)
 * [Ladinokomunita](https://www.facebook.com/groups/134020069974997/) (Marcelo Benveniste, eSefarad, 1,578)
 * [Lovers of Ladino language, music, and culture.](https://www.facebook.com/groups/2213793287/) (Sami Harari, Joel S Davidi, 2,343)
 * [Zoom University Ladino Learners](https://www.facebook.com/groups/2416437988456841/) (Jacob Shaw, Reed Spitzer, Evita Bibas, 123)
+
+
+* [Ladino - לאדינו](https://www.facebook.com/groups/yahaloma60/) (Yahaloma Almuel,Niza Katifa, Nissim Bahar, 5,037)
+* [Shohari Ladino - שוחרי לאדינו](https://www.facebook.com/groups/ladino/) (Shmuel Lustman, Eyal Peretz, David Franco,  27,074)
+* [לאדינו-Ladino, לדינו,ספניולית](https://www.facebook.com/groups/161703010692751/) ()
 
 ## Ladino pages
 
