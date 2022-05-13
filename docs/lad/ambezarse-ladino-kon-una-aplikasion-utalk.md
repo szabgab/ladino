@@ -1,8 +1,8 @@
 ---
 lang: lad
+date: 2022.05.08
 ---
 # Ambezarse ladino kon una aplikasion: utalk
-Data: 2022.05.08
 
 Ay varias aplikasiones en los telefones selulares para ambezarse linguas.
 Uno de esos es [utalk](https://utalk.com/en/store/ladino) ande es posivle ambezarse ladino tambien.

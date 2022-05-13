@@ -1,5 +1,6 @@
 ---
 lang: lad
+date: 2022.05.11
 ---
 # Una presentasion sovre la teknolojia del diksionaryo ladino
 

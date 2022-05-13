@@ -1,8 +1,8 @@
 ---
 lang: lad
+date: 2022.05.04
 ---
 # Deke kero ambezarme Ladino?
-Data: 2022.05.04
 
 Kuando empesi ambezarme kasteyano solo keria provar si ya puedo ambezarme una lingua mueva.
 Desidi sovre kasteyano deke ya se un poko, me plaze la lingua, i pensi ke tambien pude ser util si kero viajar en Sur Amerika.

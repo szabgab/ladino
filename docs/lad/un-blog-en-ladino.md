@@ -1,8 +1,8 @@
 ---
 lang: lad
+date: 2022.05.06
 ---
 # Un blog en Ladino
-Data: 2022.05.06
 
 Me plaze muncho partisipar en [Ladinokomunita](https://ladinokomunita.groups.io/) i me plaze muncho tener
 las moderadoras i los moderadores ke korijan mis yerros kuando eskrivo un mesaje al grupo.
