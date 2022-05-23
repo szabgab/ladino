@@ -43,6 +43,8 @@ There are several Ladino-related Facebook groups and pages:
 ## Other pages
 
 * [Jewish Language project](https://www.facebook.com/Jewish-Language-Project-105141091047892/) (1,359)
+* [Centro Cultural Sefarad](https://www.facebook.com/ccsefarad/) (3,062)
+* [eSefarad: Noticias del Mundo Sefaradí](https://www.facebook.com/esefarad) (10,777)
 
 * [Search for Ladino related groups](https://www.facebook.com/search/groups/?q=ladino)
 
