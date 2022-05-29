@@ -3,6 +3,7 @@ lang: lad
 ---
 # Mi blog en Ladino
 
+* 2022.05.29 [Publikar temprano, publikar akorruto](publikar-temprano-publikar-akorruto)
 * 2022.05.13 [Meldar i eskrivir Ladino en Facebook: Los Ladinadores](meldar-i-eskrivir-ladino-en-facebook-los-ladinadores)
 * 2022.05.11 [Una presentasion sovre la teknolojia del diksionaryo ladino](una-presentasion-sovre-la-teknolojia-del-diksionaryo-ladino)
 * 2022.05.08 [Ambezarse ladino kon una aplikasion: utalk](ambezarse-ladino-kon-una-aplikasion-utalk)
