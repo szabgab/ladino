@@ -15,6 +15,7 @@ On this site you'll find resources about the language, the culture, and the peop
 * [Films in Ladino](films-in-ladino)
 * [Ladino speaking people](people)
 * [Text in Ladino](en/text-in-ladino)
+* [Study books in Ladino](study-books-in-ladino)
 * [Books in Ladino](books-in-ladino)
 * [Ladino scripts](ladino-scripts)
 * [Organizations](organizations)
