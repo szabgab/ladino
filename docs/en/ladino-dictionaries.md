@@ -40,10 +40,6 @@
 
 ## Other books
 
-* Manuel of Judeo-Spanish by Marie Christie Varol
-* Beginner's Guide to Ladino by Alla Markova
-* Kurso de Djudeo-Espanyol by Matilda Koen-Sarano
-* Gramatica Basica de Djudeo-Espanyol (Spanish)
 
 
 * Dicionario Sefaradi De Sobrenomes / Dictionary of Sephardic Surnames: Inclusive Cristaos-novos, Conversos, Marranos, Italianos, Berberes e sua ... and Italy (Portuguese and English Edition) Paperback – December 31, 2009
