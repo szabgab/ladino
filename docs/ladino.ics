@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Echar Lashon
+DTSTART;TZID="UTC+03:00";VALUE=DATE-TIME:20220606T190000
+DTEND;TZID="UTC+03:00";VALUE=DATE-TIME:20220606T210000
+UID:echar-lashon-4@ladino.szabgab.com
+DESCRIPTION:Enkontramos i avlamos en ladino en Zoom
+LOCATION:https://echar-lashon.szabgab.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Echar Lashon
+DTSTART;TZID="UTC+03:00";VALUE=DATE-TIME:20220608T190000
+DTEND;TZID="UTC+03:00";VALUE=DATE-TIME:20220608T210000
+UID:echar-lashon-5@ladino.szabgab.com
+DESCRIPTION:Enkontramos i avlamos en ladino en Zoom
+LOCATION:https://echar-lashon.szabgab.com/
+END:VEVENT
+END:VCALENDAR
