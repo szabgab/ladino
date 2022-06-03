@@ -10,14 +10,14 @@
     * [Amazon](https://smile.amazon.com/Sephardic-Folk-Dictionary-English-Ladino/dp/0785995935/)
 * [English Ladino dictionary for Android](https://play.google.com/store/apps/details?id=ru.vddevelopment.ref.enladen&hl=en_US&gl=US)
 * [Online English-Ladino dictionary](https://glosbe.com/lad/en)
-* Ladino-English by Güler Orgun, Ricardo Portal i Antonio Ruiz Tinoco (included in the Online dictionary, above)
+* [Ladino-English](ladino-english.pdf) by Güler Orgun, Ricardo Portal i Antonio Ruiz Tinoco (included in the Online dictionary, above)
 
 ## Spanish - Ladino
 
 * [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
 * [Spanish-Ladino](https://orbilat.com/Languages/Spanish-Ladino/index.html)
 * [Diccionario básico Ladino - Español](https://www.amazon.com/Diccionario-básico-Ladino-Español-Biblioteca-ebook/dp/B00Y8RYD72/) - Basic Ladino-Spanish dictionary (by Pascual Pascual Recuero)
-* Ladino-Spanish by Güler Orgun, Ricardo Portal i Antonio Ruiz Tinoco (included in the Online dictionary, above)
+* [Ladino-Spanish](ladino-spanish.pdf) by Güler Orgun, Ricardo Portal i Antonio Ruiz Tinoco (included in the Online dictionary, above)
 
 ## Hebrew - Ladino
 
