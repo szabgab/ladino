@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from icalendar import Calendar, Event
 from yaml import safe_load
 import datetime
@@ -24,9 +25,9 @@ for entry in events:
     event.add('dtend', end_dt)
     event.add('location', entry['url'])
     event.add('description', entry['text'])
-    uid = re.sub(r'[^a-zA-Z0-9]', '', entry['text'])[0:30]
-    event['uid'] = f'{uid}@ladino.szabgab.com'
+    #uid = re.sub(r'[^a-zA-Z0-9]', '', entry['text'])[0:30]
+    event['uid'] = f'{entry["uid"]}@ladino.szabgab.com'
     cal.add_component(event)
 
-with open('ladino.ics', 'wb') as fh:
+with open('docs/ladino.ics', 'wb') as fh:
     fh.write(cal.to_ical())
