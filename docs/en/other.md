@@ -6,3 +6,5 @@
 
 * [Rhodes Jewish Museum](https://www.rhodesjewishmuseum.org/)
 
+* [Ladino Data Hub](https://data.sefarad.com.tr/)
+* [Translate](https://translate.sefarad.com.tr/)
