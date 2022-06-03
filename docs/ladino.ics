@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
-SUMMARY:Echar Lashon
+SUMMARY:Echar Lashon #4
 DTSTART;TZID="UTC+03:00";VALUE=DATE-TIME:20220606T190000
 DTEND;TZID="UTC+03:00";VALUE=DATE-TIME:20220606T210000
 UID:echar-lashon-4@ladino.szabgab.com
@@ -9,11 +9,29 @@ DESCRIPTION:Enkontramos i avlamos en ladino en Zoom
 LOCATION:https://echar-lashon.szabgab.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Echar Lashon
+SUMMARY:Echar Lashon #5
 DTSTART;TZID="UTC+03:00";VALUE=DATE-TIME:20220608T190000
 DTEND;TZID="UTC+03:00";VALUE=DATE-TIME:20220608T210000
 UID:echar-lashon-5@ladino.szabgab.com
 DESCRIPTION:Enkontramos i avlamos en ladino en Zoom
 LOCATION:https://echar-lashon.szabgab.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raíces de Sefarad/Online en Vivo: «Primo Levi: Desde Auschwitz a
+ l testimonio»
+DTSTART;TZID="UTC-03:00";VALUE=DATE-TIME:20220609T190000
+DTEND;TZID="UTC-03:00";VALUE=DATE-TIME:20220609T200000
+UID:raices-1@ladino.szabgab.com
+DESCRIPTION:por el Rab. Felipe Yafe en vivo desde Argentina
+LOCATION:https://esefarad.com/?p=111890
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enkontros de alhad: Un Sefaradi de Estambol a Nu York I a Boyton B
+ each\, Florida
+DTSTART;TZID="UTC-03:00";VALUE=DATE-TIME:20220612T130000
+DTEND;TZID="UTC-03:00";VALUE=DATE-TIME:20220612T140000
+UID:enkontros-de-alhad-1@ladino.szabgab.com
+DESCRIPTION:Balabaya: Liliana Benveniste - Musafir Jake Kohenak
+LOCATION:https://esefarad.com/?p=111926
 END:VEVENT
 END:VCALENDAR
