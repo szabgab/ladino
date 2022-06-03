@@ -22,6 +22,7 @@
 ## Hebrew - Ladino
 
 * [Avner Peretz Ladino-Hebrew online dictionary](http://folkmasa.org/milon/pmilonh.htm)
+* Ladino-Ebreo-Ladino by Matilda Koén-Sarano
 
 ## French - Ladino
 
