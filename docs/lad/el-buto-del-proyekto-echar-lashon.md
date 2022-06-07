@@ -19,5 +19,6 @@ En el ultimo enkontro fuimos 12 personas.
  
 Avlar en un grupo es interesante ama en un enkontro kara kon kara kada uno tiene mas tiempo de avlar.
  
+
 Vo a kontinuar a anunsiar muestros enkontros aki, ama si vos interesa tener un enkontro kara kon kara mandad un mesaj direkto a mi adreso.
 
