@@ -37,7 +37,11 @@
 
 ## Courses and private lessons
 
-* [Ladino 21](https://en.ladino21.org/) has short courses in Ladino and they also offer private classes.
+* [Ladino 21](https://en.ladino21.org/) has short (4x1 hour) courses in Ladino with Alejandro Acero Ayuda. They also offer private classes.
+
+* [eSefarad](https://esefarad.com/?p=101912) has short (4x1 hour) courses in Ladino with Liliana Benveniste.
+
+* [Ladino Linguist](https://ladinolinguist.com/) has a long 16-session 20 hours course with Bryan Kirschen.
 
 * [italki](https://www.italki.com/i/EFbbfc?hl=en_us) has [no Ladino teachers](https://www.italki.com/teachers/ladino(judeospanish)).
   However I exchanged email with their support and as they have Ladino listed on their site one can apply to be a teacher or a community tutor.
