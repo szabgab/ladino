@@ -5,7 +5,7 @@ Others, espically the speakers call it Judeo-Spanish, Djudeo-Espanyol, Judizmo, 
 On this site you'll find resources about the language, the culture, and the people.
 
 
-* [Learning Ladino](learning-ladino)
+* [Learning Ladino](https://kantoniko.com/en/learning-ladino)
 * [YouTube in Ladino](youtube-in-ladino)
 * [Podcasts in Ladino](podcasts-in-ladino)
 * [Ladino music](ladino-music)
